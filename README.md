@@ -1,1 +1,1 @@
-# social
+# social - A social media website back end written in Golang
